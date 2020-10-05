@@ -1,5 +1,10 @@
 # AngularBasico
 
+## Intro ES
+Esta es un código demo sobre los temas basicos de programación con Angular.
+
+## English content
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
 ## Development server
